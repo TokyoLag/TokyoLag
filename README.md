@@ -27,9 +27,10 @@
     just another cybersecurity student<br>
     because I genuinely enjoy this shit. <br><br>
 
+  <div>
     <b>Linux | Python | Java | C</b><br>
     <b>CriptON</b><br><br>
-
+</div>
     always grinding. 💀💚
   </div>
 
